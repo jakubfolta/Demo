@@ -1,3 +1,4 @@
+import django_on_heroku
 """
 Django settings for demo project.
 
@@ -9,7 +10,6 @@ https://docs.djangoproject.com/en/4.2/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.2/ref/settings/
 """
-import django_on_heroku
 
 from pathlib import Path
 
